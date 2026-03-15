@@ -14,11 +14,3 @@ Uma aplicação em Python desenvolvida para o gerenciamento básico de informaç
 * **Armazenamento:** Utiliza uma lista (`lista_funcionarios`) de dicionários para armazenar os dados em tempo de execução.
 * **Busca:** Implementa o uso de `next()` e *list comprehensions* para otimizar a localização de dados baseados em critérios específicos.
 * **Modularização:** O sistema é dividido em funções lógicas (`exibir_funcionario`, `cadastrar_funcionario`, `consultar_funcionarios`, `remover_funcionario`), facilitando a manutenção e a legibilidade do código.
-
-
-
-## 🚀 Como Executar
-1. Certifique-se de ter o Python instalado.
-2. Execute o arquivo principal via terminal:
-   ```bash
-   python nome_do_seu_arquivo.py
